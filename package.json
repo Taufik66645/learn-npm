@@ -1,0 +1,22 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "learn basic npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "taufik hidayat",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cowsay": "^1.4.0",
+    "dc-names": "^1.2.1",
+    "moment": "^2.24.0",
+    "spongebobify": "^0.3.8"
+  }
+}
